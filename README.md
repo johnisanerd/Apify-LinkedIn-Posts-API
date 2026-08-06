@@ -280,4 +280,4 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 *Use the LinkedIn Posts API to power your content research, social listening, and engagement analytics with reliable, structured results.*
 
-Last Updated: 2026.08.04
+Last Updated: 2026.08.06
