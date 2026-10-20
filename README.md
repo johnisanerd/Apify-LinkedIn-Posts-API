@@ -144,6 +144,14 @@ The `numShares` field is returned when the post has shares.
 
 ---
 
+## FAQ
+
+### Will this put my LinkedIn or LinkedIn Recruiter account at risk?
+
+No. It reads public LinkedIn pages only, the ones anyone can open while signed out. It never logs in and never asks for your cookies: there is no input for an account, a password or an `li_at` session cookie. Nothing it does is tied to your LinkedIn account, your LinkedIn Recruiter seat or your Sales Navigator license. The requests run on Apify's servers, not in your browser, so nothing connects them to you, and you can keep working in Recruiter while a run is going.
+
+---
+
 ## Install in Claude Cowork Desktop
 
 ![Install in Claude Cowork Desktop](https://raw.githubusercontent.com/johnisanerd/ApifyPublicData/main/assets/guides/install_mcp_into_claude_desktop.png)
